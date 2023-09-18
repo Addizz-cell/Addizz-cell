@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iwayemi Fawas
+- 👋 Hi, I’m Fawas Iwayemi
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on java, phyton, Bash, Html.
